@@ -25,9 +25,10 @@ body{
 
 #logo {
     font-family: "Revenant";
+    color: #fff;
     font-size: 2rem;
     position: absolute;
-    top: 0;
+    top: 10px;
     left: 0;
     margin-left: 20px;
     
